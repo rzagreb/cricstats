@@ -1,0 +1,4 @@
+psycopg2-binary==2.9.10  # for database management
+requests==2.32.3  # for data retrieval 
+click==8.1.7  # for command line interface
+python-dotenv==1.0.1  # for environment variables
