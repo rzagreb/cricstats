@@ -1,6 +1,6 @@
 # README
 
-Project designed to ingest data from `cricsheet.org` and provide reports on the data.
+If you’re someone who loves digging into the details of cricket and finding cool patterns in the data, this project is right up your alley. It takes data from cricsheet.org (an awesome resource for cricket stats) and turns it into detailed reports about matches, players, and teams. Whether you’re here to geek out over cricket stats or just explore some interesting data, this guide has you covered—from getting set up to running your first report.
 
 ## Prerequisites
 
